@@ -120,5 +120,3 @@ The following dependencies are required to run the code:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----# MBT_Implementation
