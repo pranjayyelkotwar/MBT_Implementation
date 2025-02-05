@@ -10,7 +10,6 @@ This repository contains an implementation of Attention Bottlenecks for Multimod
 - [Results](#results)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
-- [License](#license)
 
 ## Overview
 
@@ -116,7 +115,3 @@ The following dependencies are required to run the code:
 - `pandas`
 - `matplotlib`
 - `tqdm`
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
